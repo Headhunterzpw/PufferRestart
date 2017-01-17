@@ -1,0 +1,10 @@
+name: PufferRestart
+version: 0.1-BETA
+main: nl.jessegeerts.customplugins.pufferrestart.Main
+description: Initiate a restart or stop ingame by using the pufferpanel api.
+authors: [jessegeerts, headhunterz_, jesseke55, BreachUniverse]
+commands:
+  pufferrestart:
+    usage: /<command>
+    description: Main command of this plugin
+    aliases: [pufferpanel, puffer]
